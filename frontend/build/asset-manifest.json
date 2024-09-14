@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.603e87be.css",
+    "main.js": "/static/js/main.696383a2.js",
+    "static/js/453.8eadfcda.chunk.js": "/static/js/453.8eadfcda.chunk.js",
+    "static/media/comfortaa-latin-400-normal.woff": "/static/media/comfortaa-latin-400-normal.cd0a3fbb7381a2544cfd.woff",
+    "static/media/comfortaa-latin-ext-400-normal.woff": "/static/media/comfortaa-latin-ext-400-normal.f934f87c9562509bc6a1.woff",
+    "static/media/comfortaa-latin-400-normal.woff2": "/static/media/comfortaa-latin-400-normal.cd55cff2a9e9a5cfa4bc.woff2",
+    "static/media/comfortaa-latin-ext-400-normal.woff2": "/static/media/comfortaa-latin-ext-400-normal.8c4bab72b16db29e6955.woff2",
+    "static/media/poppins-latin-400-normal.woff": "/static/media/poppins-latin-400-normal.1458587c0aa7cd06b82b.woff",
+    "static/media/comfortaa-cyrillic-400-normal.woff": "/static/media/comfortaa-cyrillic-400-normal.b15c1eb9f5dce263f78d.woff",
+    "static/media/comfortaa-cyrillic-ext-400-normal.woff": "/static/media/comfortaa-cyrillic-ext-400-normal.aa100bb608a77a95e41f.woff",
+    "static/media/comfortaa-cyrillic-400-normal.woff2": "/static/media/comfortaa-cyrillic-400-normal.3ca1a2c54c17500bec50.woff2",
+    "static/media/poppins-latin-400-normal.woff2": "/static/media/poppins-latin-400-normal.405055dd680fa1dcdfa2.woff2",
+    "static/media/comfortaa-greek-400-normal.woff": "/static/media/comfortaa-greek-400-normal.154219bca407517a0b5b.woff",
+    "static/media/poppins-latin-ext-400-normal.woff": "/static/media/poppins-latin-ext-400-normal.cf7e1ed83eb19f7b1ea6.woff",
+    "static/media/comfortaa-vietnamese-400-normal.woff": "/static/media/comfortaa-vietnamese-400-normal.26a817baac06429d15c7.woff",
+    "static/media/comfortaa-cyrillic-ext-400-normal.woff2": "/static/media/comfortaa-cyrillic-ext-400-normal.981df7499885d4fb8087.woff2",
+    "static/media/comfortaa-greek-400-normal.woff2": "/static/media/comfortaa-greek-400-normal.c7c8020ade39b93b45da.woff2",
+    "static/media/poppins-latin-ext-400-normal.woff2": "/static/media/poppins-latin-ext-400-normal.6f94f40f848d79872444.woff2",
+    "static/media/comfortaa-vietnamese-400-normal.woff2": "/static/media/comfortaa-vietnamese-400-normal.0d58e24f7952f7a12061.woff2",
+    "index.html": "/index.html",
+    "main.603e87be.css.map": "/static/css/main.603e87be.css.map",
+    "main.696383a2.js.map": "/static/js/main.696383a2.js.map",
+    "453.8eadfcda.chunk.js.map": "/static/js/453.8eadfcda.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.603e87be.css",
+    "static/js/main.696383a2.js"
+  ]
+}
